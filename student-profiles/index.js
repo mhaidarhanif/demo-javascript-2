@@ -3,8 +3,14 @@ const dataStudents = [
   "Arif",
   "Bernhard",
   "Farhan",
-  "Haidar"
+  "Haidar",
   "Jeffry",
   "Karim",
   "Rofiq",
-]
+];
+
+for (let index = 0; index < dataStudents.length; index++) {
+  const student = dataStudents[index];
+
+  console.log(student);
+}
