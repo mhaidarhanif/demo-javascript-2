@@ -1,4 +1,3 @@
-const nationalIdNumber = "238913892830129301212";
 const salaryPerYear = 100_000_000;
 const salaryPerYearInRupiah = `Rp ${salaryPerYear}`;
 
